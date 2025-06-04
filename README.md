@@ -1,14 +1,14 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://Avalanche-Tech.com)
 <h1 align="center">Hi 👋, I'm Mohamed Reda</h1>
-<h3 align="center">A passionate Full-stack developer from Egypt</h3>
+<h3 align="center">A passionate AI Developer from Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/clarionx" target="blank"><img src="https://img.shields.io/twitter/follow/clarionx?logo=twitter&style=for-the-badge" alt="clarionx" /></a> </p>
 
-- 🔭 I’m currently working on **Creating Trading Bots / Forex/Crypto**
+- 🔭 I’m currently working on **Creating AI Agentic Bots**
 
-- 🌱 I’m currently learning **Software Development, Cloud Engineering, Devops, SecOps, and implementations of AI in finances**
+- 🌱 I’m currently learning **Software Development, Cloud Engineering, AI Agentic Frameworks, and Marketing**
 
 - 💬 Ask me about **Automation Technologies with Python, and Ui Tools**
 
